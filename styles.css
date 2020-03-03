@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+
+
+	.cupcake {
+		width: 100px;
+
+	}
+	.box {
+		margin-right :25%;
+		margin-left: 25%;
+		text-align: center;
+
+	.input_style {
+		width:100%;
+	}
+	.main {
+	/*	text-indent: 100%;
+		white-space: nowrap;
+		overflow: hidden;*/
+	    display: none;
+
+	}
+
+	}
+
+
+
+}
+</html>
+</head>
+</style>
